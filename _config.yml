@@ -1,0 +1,12 @@
+title: Matthias Grob's Website
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+author :
+  name : Matthias Grob
+  email : maetugr@gmail.com
+  github : maetugr
+
+url: "https://maetugr.github.io/"
+
+google_analytics: G-56NE3QJ3QC
